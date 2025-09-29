@@ -31,8 +31,19 @@ Beyond games, I explore **Web Development** and **Algorithm Design**, pushing bo
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arsin787N&show_icons=true&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arsin787N&show_icons=true&theme=tokyonight) 
+![GitHub Streak](https://streak-stats.demolab.com?user=Arsin787N&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arsin787N&layout=compact&theme=tokyonight)  
+
+---
+
+### 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=Arsin787N&theme=onedark&margin-w=15&margin-h=15)
+
+---
+
+### 📈 Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arsin787N&theme=tokyo-night)
 
 ---
 
