@@ -1,6 +1,6 @@
 # Hi, I’m Arsin 👋  
 
-> "Winners Don't Make Excuses When the Other Side Plays The Game" – Harvey Specter  
+> "Winners don’t make excuses — they make plays." – Harvey Specter  
 
 I’m a **Game Developer & AI Enthusiast** passionate about blending **Artificial Intelligence** with **Game Design** to create next-level interactive experiences.  
 Beyond games, I explore **Web Development** and **Algorithm Design**, pushing boundaries of what software can achieve.  
@@ -31,14 +31,18 @@ Beyond games, I explore **Web Development** and **Algorithm Design**, pushing bo
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arsin787N&show_icons=true&theme=tokyonight) 
-![GitHub Streak](https://streak-stats.demolab.com?user=Arsin787N&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arsin787N&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arsin787N&layout=compact&theme=tokyonight)  
 
 ---
 
 ### 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=Arsin787N&theme=onedark&margin-w=15&margin-h=15)
+
+---
+
+### 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=Arsin787N&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -49,7 +53,7 @@ Beyond games, I explore **Web Development** and **Algorithm Design**, pushing bo
 
 ### 📫 Let’s Connect
 - 🌐 [Portfolio Website](https://)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/arsin787n)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/Arsin787N)  
 - ✉️ [Email Me](mailto:arsinnaseri1999@gmail.com)  
 
 ---
