@@ -1,6 +1,6 @@
 # Hi, I’m Arsin 👋  
 
-> "Winners don’t make excuses — they make plays." – Harvey Specter  
+> "Winners don’t make Excuses when the other Side plays the Game." – Harvey Specter  
 
 I’m a **Game Developer & AI Enthusiast** passionate about blending **Artificial Intelligence** with **Game Design** to create next-level interactive experiences.  
 Beyond games, I explore **Web Development** and **Algorithm Design**, pushing boundaries of what software can achieve.  
